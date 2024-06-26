@@ -1,2 +1,6 @@
 # Excel_Data_Analysis
-Data analysis using Excel_pivottables_pivot charts_dashboards_slicers
+
+# Frame -work 
+## 1.Data Cleaning
+## 2. Data Analysis
+## 3. Data Visualization
