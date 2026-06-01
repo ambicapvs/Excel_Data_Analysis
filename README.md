@@ -1,9 +1,9 @@
 # Excel_Data_Analysis
 These are some of the guided projects that I worked on using Excel to create some Ad-hoc Data analysis, and create Dashboards.
 # Frame -work 
-## 1.Data Cleaning
-## 2. Data Analysis
-## 3. Data Visualization
+1.Data Cleaning
+2. Data Analysis
+3. Data Visualization
 ### Bike sales Analysis
 # Insights/Executive Summary
 Bike sales were analyzed based on various factors such as gender, age, and commute distance.
