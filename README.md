@@ -1,10 +1,10 @@
-# Excel_Data_Analysis
+# Data Analysis using spreadsheets
 These are some of the guided projects that I worked on using Excel to create some Ad-hoc Data analysis, and create Dashboards.
 # Frame -work 
 1.Data Cleaning
 2. Data Analysis
 3. Data Visualization
-#Bike sales Analysis
+# Bike sales Analysis
 ## Insights/Executive Summary
 Bike sales were analyzed based on various factors such as gender, age, and commute distance.
 - ➤  Among females, those with a higher average income showed a greater inclination to purchase a bike. In contrast, among males, those with a lower average income recorded more sales compared to those with a higher average income.
