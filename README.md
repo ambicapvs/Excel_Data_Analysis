@@ -4,8 +4,8 @@ These are some of the guided projects that I worked on using Excel to create som
 1.Data Cleaning
 2. Data Analysis
 3. Data Visualization
-### Bike sales Analysis
-# Insights/Executive Summary
+#Bike sales Analysis
+## Insights/Executive Summary
 Bike sales were analyzed based on various factors such as gender, age, and commute distance.
 - ➤  Among females, those with a higher average income showed a greater inclination to purchase a bike. In contrast, among males, those with a lower average income recorded more sales compared to those with a higher average income.
 - ➤  Age also played an important role. Trends show that sales increased steadily from adolescence through middle age.
